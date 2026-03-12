@@ -23,6 +23,13 @@ al effects you need to appear in that set of dragon soul when exporting, which m
 ![5](https://github.com/user-attachments/assets/158f0385-4ced-4c1c-9bba-8294985a0a37)
 ![7](https://github.com/user-attachments/assets/02459110-0e4d-4bf4-a650-5f3cd9bd0d32)
 
-
+v1.3Light.dat和Particles.dat示例导入文件
+<img width="960" height="520" alt="Snipaste_2026-03-12_07-58-11_看图王" src="https://github.com/user-attachments/assets/4cbf3ed5-af47-4b63-8b43-f6f49876616f" />
+<img width="1465" height="806" alt="Snipaste_2026-03-12_08-26-58_看图王" src="https://github.com/user-attachments/assets/9690be02-ca62-49ac-b92a-f729c3176c74" />
+<img width="1222" height="833" alt="Snipaste_2026-03-12_10-34-21_看图王" src="https://github.com/user-attachments/assets/8c1e79d6-3a35-4adf-acb6-6550368b33cb" />
+<img width="784" height="300" alt="Snipaste_2026-03-12_10-45-07" src="https://github.com/user-attachments/assets/a1abe008-ffaf-444f-91de-20331cb15d79" />
+<img width="1893" height="1000" alt="Snipaste_2026-03-12_10-45-33" src="https://github.com/user-attachments/assets/fcedf578-de07-4ef2-be10-387eff7a2f2a" />
+<img width="662" height="305" alt="Snipaste_2026-03-12_11-01-51" src="https://github.com/user-attachments/assets/013910fc-9f93-4952-919a-8a854896881b" />
+<img width="1920" height="1040" alt="Snipaste_2026-03-12_11-03-37" src="https://github.com/user-attachments/assets/80b7a906-4a36-4b5d-bb1d-995e6e60cbb2" />
 
 
