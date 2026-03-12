@@ -23,7 +23,7 @@ al effects you need to appear in that set of dragon soul when exporting, which m
 ![5](https://github.com/user-attachments/assets/158f0385-4ced-4c1c-9bba-8294985a0a37)
 ![7](https://github.com/user-attachments/assets/02459110-0e4d-4bf4-a650-5f3cd9bd0d32)
 
-v1.3Light.dat和Particles.dat示例导入文件
+V1.3本次更新，添加了旋转、缩放，值的支持导出，还在脚本文件夹中添加了，旧版本的Light.dat和Particles.dat示例导入文件
 <img width="960" height="520" alt="Snipaste_2026-03-12_07-58-11_看图王" src="https://github.com/user-attachments/assets/4cbf3ed5-af47-4b63-8b43-f6f49876616f" />
 <img width="1465" height="806" alt="Snipaste_2026-03-12_08-26-58_看图王" src="https://github.com/user-attachments/assets/9690be02-ca62-49ac-b92a-f729c3176c74" />
 <img width="1222" height="833" alt="Snipaste_2026-03-12_10-34-21_看图王" src="https://github.com/user-attachments/assets/8c1e79d6-3a35-4adf-acb6-6550368b33cb" />
