@@ -15,7 +15,7 @@ riot _ Maya _ Light _ Particles _ Import _ Export _ scripts
 ![2](https://github.com/user-attachments/assets/09957261-e6ea-4f6e-80c9-45bd7edc0879)
 ![3](https://github.com/user-attachments/assets/4916e6d8-dd45-4c9a-a8a9-4f406c7c6fd6)
 
-按钮2导入贴图粒子.dat数据
+按钮2导入Particles.dat.粒子位置数据
 ![4](https://github.com/user-attachments/assets/ab0638ac-5ca6-441c-ac81-806e4ba4fc09)
 
 按钮3将Particles.dat粒子位置数据导出到.bin .py 粒子结构矩形正位置,按钮3不会强制您在maya中创建任何对象，将它们移动到您需要的位置，选择对象或组，并批量导出数据，以及输入
