@@ -1,7 +1,6 @@
 riot _ Maya _ Light _ Particles _ Import _ Export _ scripts
 用于导入英雄联盟Light.dat和粒子. dat文件数据，并导出到新版本bin粒子结构位置的maya插件。
 
-您需要设置渲染器中灯光数量的限制。需要注意的是,当你在灯光设置中使用选定的灯光时,不要选择整个组。如果你的电脑配置不够,你的maya会卡死。
 ![狙击手2025年6月18日17月50日27日](https://github.com/user-attachments/assets/25bcbd0b-2eab-48a3-a2fb-d127ddfad032)
 
 窗口插件管理器中的脚本名称以及工具栏和工具架按钮将会出现。
