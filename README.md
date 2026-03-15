@@ -19,7 +19,7 @@ riot _ Maya _ Light _ Particles _ Import _ Export _ scripts
 ![4](https://github.com/user-attachments/assets/ab0638ac-5ca6-441c-ac81-806e4ba4fc09)
 
 按钮3将Particles.dat粒子位置数据导出到.bin .py 粒子结构矩形正位置,按钮3不会强制您在maya中创建任何对象，将它们移动到您需要的位置，选择对象或组，并批量导出数据，以及输入
-al效果你需要粒子在那套龙魂地图中出现的粒子效果，也就是说255出现在所有龙魂地图里，根据版本测试值输入，在bin中添加你的自定义VFX,将VFX每次绑定到，第二次粒子位置绑定名称下面
+al效果你需要粒子在那套龙魂地图中出现的粒子效果，也就是说255出现在所有龙魂地图里，根据版本测试值输入，在bin中添加你的自定义VFX,将VFX名称绑定到，第二次粒子位置绑定名称下面
 ![8](https://github.com/user-attachments/assets/853c3b9c-556c-407f-902b-2048b9cdd6bf)
 ![5](https://github.com/user-attachments/assets/158f0385-4ced-4c1c-9bba-8294985a0a37)
 ![7](https://github.com/user-attachments/assets/02459110-0e4d-4bf4-a650-5f3cd9bd0d32)
