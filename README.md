@@ -1,5 +1,5 @@
 riot _ Maya _ Light _ Particles _ Import _ Export _ scripts
-用于导入英雄联盟S4.nvr地图模型配置文件，旧版本的Light.dat灯光文件，和Particles.datˌ粒子数据位置文件数据,并导出到新版本英雄联盟.py .bin粒子结构矩形正位置的maya插件。
+用于导入英雄联盟S4.nvr地图模型配置文件，旧版本的Light.dat灯光文件，和Particles.dat，粒子数据位置文件数据,并导出到新版本英雄联盟.py .bin粒子结构矩形正位置的maya插件。
 
 要使用这个插件只需要把解压的一整个文件夹复制到文档📄目录
 
