@@ -8,7 +8,7 @@ riot _ Maya _ Light _ Particles _ Import _ Export _ scripts
 在maya窗口插件管理器中勾选激活，脚本名称以及工具栏和工具架按钮将会出现。
 ![狙击手2025年6月18日18](https://github.com/user-attachments/assets/45a678f0-ff0a-4ba7-a1c0-f838ea503b85)
 
-按钮1导入照明数据
+按钮1导入Light.dat灯光数据
 ![1](https://github.com/user-attachments/assets/a7b6e5c9-39e9-4a2f-9fe7-2808ddd678da)
 
 您需要设置渲染器中灯光数量的限制。需要注意的是,当你在灯光设置中使用选定的灯光时,不要选择整个组。如果你的电脑配置不够,你的maya会卡死。
